@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "eslint": "^9.22.0",
+    "web-ext": "^8.4.0"
+  },
+  "dependencies": {
+    "@vleap/warps": "^0.14.1"
+  }
+}
